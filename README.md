@@ -26,7 +26,7 @@ Hi! I’m Hana — a second-year Master of Arts Management (MAM) student with a 
 # Portfolio
 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing government Debt](visualizing-government-debt)
 A visualization exploring patterns and proportions in government debt.  
  *Linked to:* `visualizing-government-debt.md`
 
