@@ -16,8 +16,8 @@ Hi! I’m Hana — a second-year Master of Arts Management (MAM) student with a 
 # What I hope to learn
 
 - How to transform complex, messy information to visual graphic in an efficient and clear way
-- List item #2 Explore different data visualization tools, for example tableu, PowerBI...
-- List item #3 Explore the intersection of art and data
+- Explore different data visualization tools, for example tableu, PowerBI...
+- Explore the intersection of art and data
 
 
 # Portfolio
