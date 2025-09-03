@@ -11,6 +11,8 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
+！<img width="1024" height="1536" alt="83a96d30-00bf-47eb-bd9f-4599ef89fa43" src="https://github.com/user-attachments/assets/c2a97d66-4dfe-4aca-aed0-395d799bc3fd" />
+
 Hi! I’m Hana — a second-year Master of Arts Management (MAM) student with a background in visual art. I'm passionate about creative storytelling, and I’m excited to explore how data can spark new ways of seeing and making. 
 
 # What I hope to learn
