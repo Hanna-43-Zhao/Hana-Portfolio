@@ -15,15 +15,13 @@ Hi! I’m Hana — a second-year Master of Arts Management (MAM) student with a 
 
 # What I hope to learn
 
-1. List item #1 How to transform complex, messy information to visual graphic in an efficient and clear way
-2. List item #2 Explore different data visualization tools, for example tableu, PowerBI...
-3. List item #3 Explore the intersection of art and data
+- How to transform complex, messy information to visual graphic in an efficient and clear way
+- List item #2 Explore different data visualization tools, for example tableu, PowerBI...
+- List item #3 Explore the intersection of art and data
 
 
 # Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 A visualization exploring patterns and proportions in government debt.  
