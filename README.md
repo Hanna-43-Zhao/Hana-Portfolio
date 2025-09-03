@@ -13,6 +13,7 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 
 # About me
 <img width="256" height="384" alt="83a96d30-00bf-47eb-bd9f-4599ef89fa43" src="https://github.com/user-attachments/assets/23985520-ad12-415b-9558-3054d31c38d0" />
+
 Hi! I’m Hana — a second-year Master of Arts Management (MAM) student with a background in visual art. I'm passionate about creative storytelling, and I’m excited to explore how data can spark new ways of seeing and making. 
 
 # What I hope to learn
