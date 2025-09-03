@@ -11,20 +11,14 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! I’m Hana — a second-year Master of Arts Management (MAM) student with a background in visual art. I'm passionate about creative storytelling, and I’m excited to explore how data can spark new ways of seeing and making. 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. List item #1 How to transform complex, messy information to visual graphic in an efficient and clear way
+2. List item #2 Explore different data visualization tools, for example tableu, PowerBI...
+3. List item #3 Explore the intersection of art and data
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
 
 # Portfolio
 
@@ -32,16 +26,19 @@ or...
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+A visualization exploring patterns and proportions in government debt.  
+ *Linked to:* `visualizing-government-debt.md`
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+A redesign and critique of an existing visualization, focusing on clarity, visual structure, and storytelling intent.  
+ *Linked to:* `critique-by-design.md`
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+An in-depth data storytelling project that brings together everything learned in the course.
+
+- [Part I: Project Proposal](final-project-part-one)  
+- [Part II: Draft + Feedback](final-project-part-two)  
+- [Part III: Final Submission](final-project-part-three)
 
 ---
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
