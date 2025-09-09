@@ -58,8 +58,6 @@ A visualization exploring patterns and proportions in government debt.
 
 
 `
-
-
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 A redesign and critique of an existing visualization, focusing on clarity, visual structure, and storytelling intent.  
  *Linked to:* `critique-by-design.md`
