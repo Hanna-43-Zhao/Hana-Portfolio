@@ -29,32 +29,6 @@ Hi! I’m Hana — a second-year Master of Arts Management (MAM) student with a 
 ## [Visualizing Government Debt](visualizing-government-debt)
 A visualization exploring patterns and proportions in government debt.  
 *(Click the link above to view the interactive Tableau visualization.)*
-
-
-`
-
-
-## Assignment 3&4: [Critique by Design](critique-by-design)
-A redesign and critique of an existing visualization, focusing on clarity, visual structure, and storytelling intent.  
- *Linked to:* `critique-by-design.md`
- 👉 如果你只看到 PNG 而不是交互式图表，说明 脚本没执行（常见原因是用了 Markdown 代码块或没在 GitHub Pages 上看）。
-要不要我帮你写一个 干净整理过的 visualizing-government-debt.md 模板（带标题、说明、嵌入代码），你直接复制就能用？
-
-You said:
-我不要显示png
-ChatGPT said:
-明白啦 👍 你不想显示 PNG，那就是要去掉 <noscript> 里那一段静态图。
-在 Tableau 自动生成的 embed code 里：
-
-<noscript>
-  <a href='#'>
-    <img alt='OECD Debt to GDP ratio, 2007-2024'
-      src='https://public.tableau.com/static/images/Ta/Tableu-HZ/OECDDebttoGDPration2007-2024/1_rss.png'
-      style='border: none' />
-  </a>
-</noscript>
-这一段就是纯静态图片的 fallback。只要把它删掉，页面里就不会显示 PNG 了。
-✅ 只保留交互图的简化版本
 <div class='tableauPlaceholder' id='viz1757383773090' style='position: relative'>
   <object class='tableauViz' style='display:none;'>
     <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
@@ -81,6 +55,14 @@ ChatGPT said:
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+
+`
+
+
+## Assignment 3&4: [Critique by Design](critique-by-design)
+A redesign and critique of an existing visualization, focusing on clarity, visual structure, and storytelling intent.  
+ *Linked to:* `critique-by-design.md`
 
 ## Final project
 An in-depth data storytelling project that brings together everything learned in the course.
