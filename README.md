@@ -54,7 +54,6 @@ A visualization exploring patterns and proportions in government debt.
     <param name='filter' value='publish=yes' />
   </object>
 </div>
-
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1757380937644');
   var vizElement = divElement.getElementsByTagName('object')[0];
