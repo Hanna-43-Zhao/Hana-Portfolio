@@ -28,11 +28,11 @@ Hi! I’m Hana — a second-year Master of Arts Management (MAM) student with a 
 
 ## Assignment: [Visualizing government Debt](visualizing-government-debt)
 A visualization exploring patterns and proportions in government debt.  
- *Linked to:* `<div class='tableauPlaceholder' id='viz1757380937644' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1757380937644' style='position: relative'>
   <noscript>
     <a href='#'>
-      <img alt='Sheet 1 '
-        src='https://public.tableau.com/static/images/Ta/Tableu-HZ/Sheet1/1_rss.png'
+      <img alt='Sheet 1'
+        src='https://public.tableau.com/static/images/Ta/Tableu-HZ/Sheet1/1.png'
         style='border: none' />
     </a>
   </noscript>
@@ -64,6 +64,7 @@ A visualization exploring patterns and proportions in government debt.
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
 `
 
 
