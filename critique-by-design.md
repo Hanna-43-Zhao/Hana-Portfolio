@@ -9,10 +9,26 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+[Forbes: World’s Highest-Paid Athletes](https://www.forbes.com/lists/athletes/?sh=162054105b7e)
+_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  
+I selected this data visualization because the topic is interesting and highly engaging for a broad audience. The earnings of top athletes spark curiosity worldwide and connect to everyday conversations about sports, money, and fame. What's more, The source of the information which is forbes is also highly credible and widely recognized.
+
+At the same time, while the dataset is rich in information and provides a comprehensive breakdown of athlete earnings, the original visualization is limited in how effectively it communicates insights. Table makes it harder for viewers to immediately see patterns across sports, countries, or the balance between on-field and off-field income. I think these shortcomings making it a strong candidate for redesign because there are many opportunities to highlight key stories, simplify comparisons, and make the data more visually impactful.
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+### Strengths
+- **Accuracy:** The source (Forbes) is reliable, and the dataset is transparen.
+- **Completeness:** All the essential information is there.  
+- **Clarity of facts:** As a lookup tool, it works well for quickly finding an athlete’s exact numbers.  
+
+### Weaknesses
+- **Low perceptibility and intuitiveness:** The table forces readers to scan row by row and mentally calculate comparisons. It doesn’t surface patterns or relationships automatically.  
+- **Weak storytelling:** There is no visual guidance toward insights such as which sports dominate, which athletes rely most on commercial income, or how geography affects distribution.  
+- **Limited engagement:** While useful as a database, it fails to spark curiosity or discussion because it looks flat and purely informational.  
+
+### Overall Reflection
+The visualization is useful as a reference but ineffective as a storytelling tool. Its plain design misses the opportunity to highlight trends, contrasts, or narratives that the data could reveal.  
+A stronger design would shift the focus from raw numbers to meaningful insights, helping audiences understand not just who earned how much,but also why those patterns exist.
 
 ## Step three: Sketch a solution
 
