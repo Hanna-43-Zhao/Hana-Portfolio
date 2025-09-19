@@ -17,20 +17,31 @@ At the same time, while the dataset is rich in information and provides a compre
 
 ## Step two: the critique
 ### Strengths
-- **Accuracy:** The source (Forbes) is reliable, and the dataset is transparen.
-- **Completeness:** All the essential information is there.  
-- **Clarity of facts:** As a lookup tool, it works well for quickly finding an athlete’s exact numbers.  
+- Accuracy: The source (Forbes) is reliable, and the dataset is transparen.
+- Completeness: All the essential information is there.  
+- Clarity of facts: As a lookup tool, it works well for quickly finding an athlete’s exact numbers.  
 
 ### Weaknesses
-- **Low perceptibility and intuitiveness:** The table forces readers to scan row by row and mentally calculate comparisons. It doesn’t surface patterns or relationships automatically.  
-- **Weak storytelling:** There is no visual guidance toward insights such as which sports dominate, which athletes rely most on commercial income, or how geography affects distribution.  
-- **Limited engagement:** While useful as a database, it fails to spark curiosity or discussion because it looks flat and purely informational.  
+- Low perceptibility : The table forces readers to scan row by row and mentally calculate comparisons. It doesn’t surface patterns or relationships automatically.  
+- Weak storytelling: There is no visual guidance toward insights such as which sports dominate, which athletes rely most on commercial income, or how geography affects distribution.  
+- Limited engagement: While useful as a database, it fails to spark curiosity or discussion because it looks flat and purely informational.  
 
 ### Overall Reflection
-The visualization is useful as a reference but ineffective as a storytelling tool. Its plain design misses the opportunity to highlight trends, contrasts, or narratives that the data could reveal.  
-A stronger design would shift the focus from raw numbers to meaningful insights, helping audiences understand not just who earned how much,but also why those patterns exist.
+Overall, the visualization is useful as a reference but ineffective as a storytelling tool. The design is plain and invisually, misses the opportunity to highlight trends, contrasts, or narratives that the data could reveal. Next step, I aim to highlight key themes and make the story clearer. I will use stacked bar charts with distinct colors to show on-field vs. off-field income, add sport-based colors to reveal which sports dominate, and include national flags to emphasize geographic patterns. To make the visualization more engaging and accessible, I also plan to incorporate athlete headshots for easier recognition.
+
 
 ## Step three: Sketch a solution
+![IMG_0405](https://github.com/user-attachments/assets/e9e8a020-504a-4fb7-b287-e7fe10fb1e60)
+
+Below is my initial sketch for the redesign. At this stage, I began translating the critique insights into a visual plan. From the critique, I realized that the original table lacked perceptibility and storytelling, which guided me to focus on highlighting contrasts and patterns more clearly.The sketch highlights how I plan to:  
+
+- Use stacked bar charts to compare on-field vs. off-field income.  
+- Add filiters for nationality and sports, so the audience can interact with the data and focus on the groups or comparisons most relevant to them.  
+- Include national flags to emphasize geographic distribution.
+- Add athletes’ photos to make the visualization more engaging and easier to recognize.
+
+I also drew inspiration from a Statista chart on the world’s highest-paid athletes (https://www.statista.com/chart/14130/the-worlds-highest-paid-athletes/). The chart is visually engaging, but I found two key limitations that shaped my redesign ideas. First, its interactivity is limited。the audience cannot explore data in their ways. Second, it only highlights eight athletes, which makes the story less representative. In my redesign, I aim to improve on these points. I can have interactive filters in my chart, also includa larger dataset (Top 25 athletes) to present a more complete and insightful picture.
+
 
 ## Step four: Test the solution
 
@@ -38,24 +49,22 @@ _Before you conduct your interviews, prepare a simple script.  Use this as a gui
 
 Questions to ask (modify these for your own interviews): 
 
-- Can you tell me what you think this is?
+- When you first see this, what do you think it’s showing?
 
-- Can you describe to me what this is telling you?
+- What story or insight do you get from the visualization?
 
-- Is there anything you find surprising or confusing?
+- Is the split between on-field and off-field income clear to you?
 
-- Who do you think is the intended audience for this?
+- Do the colors, flags, or photos help you understand better, or do they feel distracting?
 
-- Is there anything you would change or do differently?
+- If you could change one thing to make it clearer, what would it be?
+
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|          |             |             |
+|When you first see this, what do you think it’s showing?          |Looks like athletes’ income, but I wasn’t sure what “on-field” and “off-field” meant at first.          |             |It’s about athlete earnings, but I also didn’t know what “on-field” and “off-field” meant right away.
 |          |             |             |
 |          |             |             |
 
