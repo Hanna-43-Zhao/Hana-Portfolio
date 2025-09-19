@@ -85,12 +85,21 @@ Finally, at least one interviewee suggested the ability to filter by sport or na
 Based on these feedbacks, for my final redesign, I plan to (1) Add notes to explain “on-field/off-field”, (2) keep the flags but drop the photos, and (3) add interactive filters for sport and nationality to make exploration easier.
 
 ## Step five: build the solution
+<div class='tableauPlaceholder' id='viz1758244377103' style='position: relative'><noscript><a href='#'><img alt='The Top 25 Highest-Paid Athletes On-Field vs. Off-Field Income Across Sports and Countries ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;TheTop25Highest-PaidAthletes-HZ&#47;Sheet12&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TheTop25Highest-PaidAthletes-HZ&#47;Sheet12' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;TheTop25Highest-PaidAthletes-HZ&#47;Sheet12&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1758244377103');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+In this final version, I built the visualization directly in Tableau, which made it more feasible and allowed me to make some practical adjustments while still keeping the original design concept. Through this process, I also learned new Tableau techniques such as using dual axis, synchronizing axes, and inserting country flag images. These adjustments not only improved the functionality of the visualization but also enhanced its clarity and storytelling power.
+The final chart also revealed several meaningful insights. Cristiano Ronaldo’s dramatic lead highlights how exceptional cases can dominate the rankings, reflecting both his longevity and unmatched brand appeal. Shohei Ohtani’s income structure shows how his off-field endorsements far exceed his on-field salary—his unique position as a Japanese player in Major League Baseball allows him to capture both the Asian and U.S. markets, making him one of the most commercially valuable athletes in the world. The strong presence of American athletes demonstrates the high degree of commercialization in U.S. sports, supported by a passionate fan culture and a robust economy. Finally, the sport-specific differences are striking: football players earn primarily from on-field salaries, while basketball and soccer players rely much more on off-field endorsements, illustrating how global popularity and sponsorship opportunities shape different income structures across sports.
 
 ## References
-_List any references you used here._
+Forbes. “The World’s Highest-Paid Athletes.” Forbes.com. Retrieved from https://www.forbes.com/lists/athletes/?sh=162054105b7e
+Statista. “The World’s Highest Paid Athletes 2023.” Statista.com. Retrieved from https://www.statista.com/chart/14130/the-worlds-highest-paid-athletes/
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I occasionally used copilot to address specific Tableau questions and refine my writing, but all analysis, design work, and the final visualization were carried out by myself.
 
