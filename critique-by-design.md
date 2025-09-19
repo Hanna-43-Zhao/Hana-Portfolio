@@ -62,11 +62,13 @@ Questions to ask (modify these for your own interviews):
 
 Results: 
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|When you first see this, what do you think it’s showing?          |Looks like athletes’ income, but I wasn’t sure what “on-field” and “off-field” meant at first.          |             |It’s about athlete earnings, but I also didn’t know what “on-field” and “off-field” meant right away.
-|          |             |             |
-|          |             |             |
+| Question                                                                                 | Interview 1                                                                                                                             | Interview 2                                                                                                                                     |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| When you first see this, what do you think it’s showing?                                 | It looks like a ranking of top-paid athletes, but I wasn’t sure at first what "on-field" and "off-field" meant.                         | I could tell it’s about income breakdown, but I'm not sure what is "on-field" and "off-field"                 |
+| What story or insight do you get from the visualization?                                 | I quickly noticed there are lots of U.S. athletes are included compared to other countries. That stood out me. I also can recognize a lot of U.S. athletes because they are too famous.           | Shohei Ohtani’s case jumps out—his off-field income is so much higher than others, it makes me wonder why.                                      |
+| Is the split between on-field and off-field income clear to you?                         | The stacked bars make it visually clear, but the terminology confused me. Maybe simpler terms like “sport earnings” vs. “endorsements.” | The split is easy to read, but I think the contrast could be even sharper with stronger colors.                                                 |
+| Do the colors, flags, or photos help you understand better, or do they feel distracting? | The flags are really helpful, but the athlete photos might be weired especially since there are 25 people here. Flags really help me to recognize athletes' nationality, it will be better if add legend                   | I like the idea of photos because I don’t follow sports closely, faces would help me, but technically it may be too hard to implement in Tableau. |
+| If you could change one thing to make it clearer, what would it be?                      | I’d adjust the wording of income categories, or add a note on the bottom of the chart.                                                                  | I’d add filters by sport or country so I can focus on one group at a time instead of scanning the whole chart.                                  |
 
 Synthesis: 
 
