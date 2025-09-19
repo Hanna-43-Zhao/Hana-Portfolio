@@ -72,7 +72,17 @@ Results:
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+From the two interviews, several patterns stood out.
+
+First, both interviewees were confused by the terms “on-field” and “off-field”. While the intended audience might be sports fans who already know these terms, for a broader audience I should clarify them. Adding a short note at the bottom of the chart would make the distinction more accessible.
+
+In terms of storytelling, one person pointed out how many American athletes dominate the list, while the other was struck by how much of Shohei Ohtani’s earnings come from endorsements. This shows that geography and unique outliers naturally capture attention and add discussion value. It also confirmed that the design choices I made—such as adding flags and highlighting categories—do strengthen the narrative dimension of the visualization.
+
+As for design elements, both found the national flags helpful. Feedback on athlete photos was mixed: one thought they could add personality, while the other worried they might clutter the view, especially since showing 25 photos would be overwhelming. I’ve decided not to include photos in the final design for clarity and feasibility in Tableau.
+
+Finally, at least one interviewee suggested the ability to filter by sport or nationality. This aligns with my original plan but my sketch couldn’t show it.
+
+Based on these feedbacks, for my final redesign, I plan to (1) Add notes to explain “on-field/off-field”, (2) keep the flags but drop the photos, and (3) add interactive filters for sport and nationality to make exploration easier.
 
 ## Step five: build the solution
 
