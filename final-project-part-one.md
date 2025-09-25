@@ -39,10 +39,15 @@ To add context, I will also use climate data from the **National Oceanic and Atm
 For this project, I will use Tableau to create interactive visualizations such as line charts, maps, and heatmaps to highlight visitation trends over time, geography, and seasonality. These visualizations will then be integrated into a narrative webpage using Shorthand, combining text and visuals into a cohesive story. The final product will be a publicly accessible digital project that allows the audience to follow the storyline while also exploring the data interactively.
 
 ## References
+
 National Park Service. “Visitor Use Statistics.” U.S. Department of the Interior. Accessed September 26, 2025. https://www.nps.gov/subjects/socialscience/visitor-use-statistics.htm.
+
 Trizzle Travels. “National Parks.” Accessed September 26, 2025. https://trizzletravels.com/nationalparks/.
+
 ESRI. 2023. “Mapping the Most Popular National Park Service Lands.” ArcGIS Blog, August 28, 2023. Accessed September 26, 2025. https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/mapping-the-most-popular-national-park-service-lands.
+
 Northwestern University. 2025. “Love Data Gallery 2025.” Office of the Provost. Accessed September 26, 2025. https://www.northwestern.edu/provost/about/ir/love-data/gallery-2025/.
+
 National Centers for Environmental Information. “Climate Data Online (CDO).” NOAA. Accessed September 26, 2025. https://www.ncei.noaa.gov/cdo-web/.
 
 
