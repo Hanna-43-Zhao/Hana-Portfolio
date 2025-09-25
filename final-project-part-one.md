@@ -12,17 +12,24 @@ This project is not only about presenting data, but also about telling a story: 
 
 ## Initial sketches
 **Initial Sketch 1: Overall Trends**
+
 Use line to show the overall trend of total visitation across all national parks (1980–2024).
 ![Sketch 1](https://github.com/user-attachments/assets/b1992108-1b43-47fe-871a-9512b35618e9)
 
 **Initial Sketch 2: Visitors by Park**
+
 Use line chart to show the annual visitation trends of all national parks and compare the differences between them.
 ![Sketch 2](https://github.com/user-attachments/assets/47fe5797-8754-4bab-991d-6d1ee050670f)
 
 **Initial Sketch 3: Visitors by Map**
+
 Use circles of different sizes on a simplified U.S. map to show visitation, directly illustrating the geographic distribution of national parks. This visualization allows the audience to sense the contrast between parks in the East and the West, and to understand how population density and transportation access influence visitation levels.
 ![Sketch 3](https://github.com/user-attachments/assets/d6a589ad-c344-4a7d-b2e1-a560fc488cb3)
+I'm also thinking using different color to indicate the kind of National Park (landscape v.s. cultural) so audience know which is more popular, which more in east/west.
 
+**Initial Sketch 4: Heat **
+
+<img width="3198" height="1180" alt="output-2" src="https://github.com/user-attachments/assets/f1ea8a0b-87ea-404d-a6ee-7b47ea2391e0" />
 
 # The data
 In this project, I will use the Visitor Use Statistics dataset from the **U.S. National Park Service (NPS)**. It provides monthly and annual visitation numbers for all units in the National Park System, collected and standardized by the NPS Social Science Program. This dataset is comprehensive enough for my analysis.
