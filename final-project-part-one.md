@@ -32,12 +32,11 @@ To add context, I will also use climate data from the **National Oceanic and Atm
 | Name | URL | Description |
 |------|-----|-------------|
 |NPS Visitor Use Statistics      |https://irma.nps.gov/Stats/Reports/National     |Official monthly and annual visitation data for all units of the U.S. National Park System, coordinated by the NPS Social Science Program.             |
-|Climate Data (NOAA)      |     |Official climate, temperature, and precipitation data for different regions, helping explaning seasonal peaks at specifical parks             |
+|Climate Data (NOAA)      |https://www.ncei.noaa.gov/cdo-web/     |Official climate, temperature, and precipitation data for different regions, helping explaning seasonal peaks at specifical parks             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+For this project, I will use Tableau to create interactive visualizations such as line charts, maps, and heatmaps to highlight visitation trends over time, geography, and seasonality. These visualizations will then be integrated into a narrative webpage using Shorthand, combining text and visuals into a cohesive story. The final product will be a publicly accessible digital project that allows the audience to follow the storyline while also exploring the data interactively.
 
 ## References
 _List any references you used here._
