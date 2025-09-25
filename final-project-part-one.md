@@ -4,13 +4,11 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+For my final project, I will use publicly available data from the U.S. National Park Service (NPS) to analyze visitation trends across the national park system. Specifically, I want to explore patterns in visitor attendance, geographic distribution, and accessibility. My interest lies in uncovering how the popularity of different parks reflects broader aspects of American culture, geography, and infrastructure. By comparing highly visited destinations with lesser-known sites, I aim to highlight both the diversity of the park system and the behaviors of those who visit it.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+This project is not only about presenting data, but also about telling a story: using visualization to show how national parks embody the diversity of natural and cultural landscapes in the United States, and how people interact with these spaces over time. I will highlight annual and monthly visitation patterns, regional contrasts, and seasonal peaks and lows, supported by case examples of representative parks. Since my intended audience is the general public, I will focus on clear explanations, intuitive comparisons, and narrative-driven visualizations that make the trends easy to understand and engaging to explore.
 
-Text here...
+
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
@@ -18,17 +16,14 @@ Text here...
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+In this project, I will use the Visitor Use Statistics dataset from the **U.S. National Park Service (NPS)**. It provides monthly and annual visitation numbers for all units in the National Park System, collected and standardized by the NPS Social Science Program. This dataset is comprehensive enough for my analysis.
 
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+To add context, I will also use climate data from the **National Oceanic and Atmospheric Administration (NOAA)**, including temperature and precipitation. This will help explain seasonal peaks and valleys at specifical parks. By combining visitation and climate data, I can give a clearer picture of seasonal patterns and offer practical insights for visitors, such as which seasons are most popular and which times may be less ideal for a visit.
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+|NPS Visitor Use Statistics      |https://irma.nps.gov/Stats/Reports/National     |Official monthly and annual visitation data for all units of the U.S. National Park System, coordinated by the NPS Social Science Program.             |
+|Climate Data (NOAA)      |     |Official climate, temperature, and precipitation data for different regions, helping explaning seasonal peaks at specifical parks             |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
