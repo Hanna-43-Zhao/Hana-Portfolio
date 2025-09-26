@@ -32,7 +32,9 @@ This heatmap showing  monthly visitation patterns across all 63 U.S. National Pa
 <img width="3198" height="1180" alt="output-2" src="https://github.com/user-attachments/assets/f1ea8a0b-87ea-404d-a6ee-7b47ea2391e0" />
 
 **Initial Sketch 5: Word Cloud**
-<img width="611" height="575" alt="image" src="https://github.com/user-attachments/assets/fc97106f-4d96-43b9-9d54-d4f6e53dc5b4" />
+I used Brandwatch to build this word cloud to visualize the most frequently mentioned terms about national parks in online discussions. It directly illustrates the themes people associate with different parks, allowing the audience to sense qualitative aspects such as crowding, accessibility, and unique experiences that complement whole project.
+<img width="582" height="401" alt="image" src="https://github.com/user-attachments/assets/dc2589d1-cc51-4975-91fd-a72077b378f0" />
+
 
 # The data
 In this project, I will use the Visitor Use Statistics dataset from the **U.S. National Park Service (NPS)**. It provides monthly and annual visitation numbers for all units in the National Park System, collected and standardized by the NPS Social Science Program. This dataset is comprehensive enough for my analysis.
@@ -62,4 +64,4 @@ National Centers for Environmental Information. “Climate Data Online (CDO).”
 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used ChatGPT as supportive tool. Specifically, I asked for help with refining some of the wording, grammer and generating one example heatmap as a temporary sketch to illustrate an idea.
