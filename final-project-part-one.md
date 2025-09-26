@@ -29,11 +29,12 @@ Use circles of different sizes on a simplified U.S. map to show visitation, dire
 **Initial Sketch 4: Heatmap**
 
 This heatmap showing  monthly visitation patterns across all 63 U.S. National Parks. The color intensity represents relative visitor numbers, higher values in summer months and lower values in winter. The audience can directly see which seasons are peak times and which seasons are better for visiting the park. **This visualization was temporarily generated with ChatGPT, and it is only used here as a sketch to illustrate my idea for the project. I also plan to show the heatmap of tempreture to highlight the connection between visitation and weather.**
-<img width="3198" height="1180" alt="output-2" src="https://github.com/user-attachments/assets/f1ea8a0b-87ea-404d-a6ee-7b47ea2391e0" />
+<img width="3198" height="auto" alt="output-2" src="https://github.com/user-attachments/assets/f1ea8a0b-87ea-404d-a6ee-7b47ea2391e0" />
 
 **Initial Sketch 5: Word Cloud**
+
 I used Brandwatch to build this word cloud to visualize the most frequently mentioned terms about national parks in online discussions. It directly illustrates the themes people associate with different parks, allowing the audience to sense qualitative aspects such as crowding, accessibility, and unique experiences that complement whole project.
-<img width="582" height="401" alt="image" src="https://github.com/user-attachments/assets/dc2589d1-cc51-4975-91fd-a72077b378f0" />
+<img width="582" height="auto" alt="image" src="https://github.com/user-attachments/assets/dc2589d1-cc51-4975-91fd-a72077b378f0" />
 
 
 # The data
