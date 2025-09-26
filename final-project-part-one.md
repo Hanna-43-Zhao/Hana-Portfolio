@@ -27,8 +27,9 @@ Use circles of different sizes on a simplified U.S. map to show visitation, dire
 ![Sketch 3](https://github.com/user-attachments/assets/d6a589ad-c344-4a7d-b2e1-a560fc488cb3)
 I'm also thinking using different color to indicate the kind of National Park (landscape v.s. cultural) so audience know which is more popular, which more in east/west.
 
-**Initial Sketch 4: Heat **
+**Initial Sketch 4: Heatmap**
 
+This heatmap showing simulated monthly visitation patterns across all 63 U.S. National Parks. The color intensity represents relative visitor numbers, higher values in summer months and lower values in winter. **This visualization was temporarily generated with ChatGPT, and it is only used here as a sketch to illustrate my idea for the project.**
 <img width="3198" height="1180" alt="output-2" src="https://github.com/user-attachments/assets/f1ea8a0b-87ea-404d-a6ee-7b47ea2391e0" />
 
 # The data
