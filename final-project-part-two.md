@@ -35,19 +35,19 @@ When defining the target audience, I considered both those directly impacted by 
 ### Who I Hope to Reach  
 
 1. **Everyday Visitors and Families**  
-   - *Representative*: A family from Ohio planning their summer trip to Yellowstone. They value affordable recreation and feel proud of experiencing America’s natural beauty.  
-   - *Motivation*: Preserve access and quality of parks for their children and future generations.  
-   - *Desired Action*: Support advocacy campaigns, donate, and share awareness in their networks.  
+   - Representative: A family from Ohio planning their summer trip to Yellowstone. They value affordable recreation and feel proud of experiencing America’s natural beauty.  
+   - Motivation: Preserve access and quality of parks for their children and future generations.  
+   - Desired Action: Support advocacy campaigns, donate, and share awareness.  
 
 2. **Local Communities and Small Business Owners**  
-   - *Representative*: A hotel owner in Estes Park, CO, whose livelihood depends on steady tourism from Rocky Mountain National Park.  
-   - *Motivation*: Protect the economic engine of their community and ensure visitor services remain strong.  
-   - *Desired Action*: Join advocacy coalitions, lobby elected officials, and partner with nonprofits or park foundations.  
+   - Representative: A hotel owner in Estes Park, CO, whose livelihood depends on steady tourism from Rocky Mountain National Park.  
+   - Motivation: Protect the economic engine of their community and ensure visitor services remain strong.  
+   - Desired Action: Join advocacy coalitions, lobby elected officials, and partner with nonprofits or park foundations.  
 
 3. **Policymakers and Decision Makers**  
-   - *Representative*: A congressional staffer reviewing budget allocations for cultural and natural resources.  
-   - *Motivation*: Respond to constituents’ pride in national parks while recognizing their local economic impact.  
-   - *Desired Action*: Protect or increase national park funding in budgets and legislation.  
+   - Representative: A congressional staffer reviewing budget allocations for cultural and natural resources.  
+   - Motivation: Respond to constituents’ pride in national parks while recognizing their local economic impact.  
+   - Desired Action: Protect or increase national park funding in budgets and legislation.  
 
 ---
 
