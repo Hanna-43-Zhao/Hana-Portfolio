@@ -1,9 +1,27 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+After receiving critical feedback, I realized that my first draft relied too heavily on numbers and charts without building a true narrative for the audience. The story was fragmented, and I failed to transform the data into a persuasive call to action. This made the project feel more like a data report than a public-facing story.
+
+In response, I rebuilt my storyboard to strengthen the storyline and focus on the economic and cultural importance of national parks. I organized the narrative into a clear sequence — from the pandemic impact, to budget cuts and staffing shortages, to the ripple effects on local economies and national heritage. I also added draft visualizations and paired them with case studies, quotes, and calls to action, connecting the data more directly to meaning and action, giving the audience both evidence and motivation to care.
+
+lINK to the Shorthand: https://campaignmonitor.shorthand.com/t/n/i-l-953980959fe711f099103e837b62876b-l-y-r-l/
+
+**Wireframs**
+# Wireframes / Storyboards with User Journey Elements
+
+| Stage (User Journey)     | Wireframe Section                        | Narrative Focus                                                                 | Audience Emotion / Response |
+|--------------------------|------------------------------------------|---------------------------------------------------------------------------------|-----------------------------|
+| **Awareness**            | 1. Hero / Poster                        | Introduce the core question: the future of national park funding                | Curiosity, pride            |
+| **Understanding**        | 2. Pandemic Impact                      | Show visitation collapse during COVID and rebound to historic highs             | Surprise, concern           |
+| **Pain Point** | 3. Budget & Maintenance Gaps             | Highlight steep cuts: operations -31%, historic preservation -90%               | Frustration, urgency        |
+| **Broader Impact**       | 4. Local Economic Value                  | Parks drive $29.5B in spending, 378,000+ jobs; lifelines for gateway towns      | Empathy, connection         |
+| **Values**    | 5. National Significance & Cultural Value | Parks as cultural anchors: 424 units, 300k volunteers, 27k historic sites       | Pride, responsibility       |
+| **Resolution**           | 6. Solutions & Funding Uses              | Show where funding goes: staffing, facilities, education, community partnerships | Relief, hope                |
+| **Action**               | 7. Call to Action (CTA)                  | Encourage donations and public advocacy                                         | Empowerment, motivation     |
+
+
 
 # User research 
 
