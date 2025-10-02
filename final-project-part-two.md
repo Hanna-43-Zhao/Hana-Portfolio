@@ -11,11 +11,11 @@ lINK to the Shorthand: https://campaignmonitor.shorthand.com/t/n/i-l-953980959fe
 **Wireframs**
 # Wireframes / Storyboards with User Journey Elements
 
-| Stage (User Journey)     | Wireframe Section                        | Narrative Focus                                                                 | Audience Emotion / Response |
+| Stage (User Journey)     | Wireframe Section                        | Narrative Focus                                                                 | Audience Emotion  |
 |--------------------------|------------------------------------------|---------------------------------------------------------------------------------|-----------------------------|
 | **Awareness**            |  Intro                        | Introduce the core question: the future of national park funding                | Curiosity, pride            |
 | **Understanding**        |  Pandemic Impact                      | Show visitation collapse during COVID and rebound to historic highs             | Surprise, concern           |
-| **Pain Point** |  Budget & Maintenance Gaps             | Highlight steep cuts               | Frustration, urgency        |
+| **Pain Point** |  Budget cuts             | Highlight steep cuts               | Frustration, urgency        |
 | **Broader Impact**       |  Local Economic Value                  | Focus on national parks' economic effects | Empathy, connection         |
 | **Values**    |  National Significance & Cultural Value | Why national parks matters to us  | Pride, responsibility       |
 | **Resolution**           |  Solutions               | Show where funding goes: staffing, facilities, education, community partnerships | Relief, hope                |
@@ -25,10 +25,40 @@ lINK to the Shorthand: https://campaignmonitor.shorthand.com/t/n/i-l-953980959fe
 
 # User research 
 
-## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+## Target Audience  
 
-Text here!
+### Approach to Identifying Representative Individuals  
+When defining the target audience, I considered both those directly impacted by national park funding and those with the power to influence change. I used a two-step method:  
+- Stakeholder analysis: identifying groups whose lives, businesses, or decisions depend on national parks.  
+- Persona sketches: creating representative individuals that reflect typical motivations, concerns, and behaviors within these groups.  
+
+### Who I Hope to Reach  
+
+1. **Everyday Visitors and Families**  
+   - *Representative*: A family from Ohio planning their summer trip to Yellowstone. They value affordable recreation and feel proud of experiencing America’s natural beauty.  
+   - *Motivation*: Preserve access and quality of parks for their children and future generations.  
+   - *Desired Action*: Support advocacy campaigns, donate, and share awareness in their networks.  
+
+2. **Local Communities and Small Business Owners**  
+   - *Representative*: A hotel owner in Estes Park, CO, whose livelihood depends on steady tourism from Rocky Mountain National Park.  
+   - *Motivation*: Protect the economic engine of their community and ensure visitor services remain strong.  
+   - *Desired Action*: Join advocacy coalitions, lobby elected officials, and partner with nonprofits or park foundations.  
+
+3. **Policymakers and Decision Makers**  
+   - *Representative*: A congressional staffer reviewing budget allocations for cultural and natural resources.  
+   - *Motivation*: Respond to constituents’ pride in national parks while recognizing their local economic impact.  
+   - *Desired Action*: Protect or increase national park funding in budgets and legislation.  
+
+---
+
+### Overall Audience Goal  
+This narrative is designed to:  
+- Build emotional connection with **general visitors**.  
+- Show tangible stakes to **local communities**.  
+- Provide persuasive evidence for **policymakers**.  
+
+By combining data, case studies, quotes, and calls to action, the project aims to move these groups from **awareness** → **understanding** → **advocacy and action**.  
+
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
