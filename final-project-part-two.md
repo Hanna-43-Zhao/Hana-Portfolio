@@ -13,13 +13,13 @@ lINK to the Shorthand: https://campaignmonitor.shorthand.com/t/n/i-l-953980959fe
 
 | Stage (User Journey)     | Wireframe Section                        | Narrative Focus                                                                 | Audience Emotion / Response |
 |--------------------------|------------------------------------------|---------------------------------------------------------------------------------|-----------------------------|
-| **Awareness**            | 1. Hero / Poster                        | Introduce the core question: the future of national park funding                | Curiosity, pride            |
-| **Understanding**        | 2. Pandemic Impact                      | Show visitation collapse during COVID and rebound to historic highs             | Surprise, concern           |
-| **Pain Point** | 3. Budget & Maintenance Gaps             | Highlight steep cuts: operations -31%, historic preservation -90%               | Frustration, urgency        |
-| **Broader Impact**       | 4. Local Economic Value                  | Parks drive $29.5B in spending, 378,000+ jobs; lifelines for gateway towns      | Empathy, connection         |
-| **Values**    | 5. National Significance & Cultural Value | Parks as cultural anchors: 424 units, 300k volunteers, 27k historic sites       | Pride, responsibility       |
-| **Resolution**           | 6. Solutions & Funding Uses              | Show where funding goes: staffing, facilities, education, community partnerships | Relief, hope                |
-| **Action**               | 7. Call to Action (CTA)                  | Encourage donations and public advocacy                                         | Empowerment, motivation     |
+| **Awareness**            |  Intro                        | Introduce the core question: the future of national park funding                | Curiosity, pride            |
+| **Understanding**        |  Pandemic Impact                      | Show visitation collapse during COVID and rebound to historic highs             | Surprise, concern           |
+| **Pain Point** |  Budget & Maintenance Gaps             | Highlight steep cuts               | Frustration, urgency        |
+| **Broader Impact**       |  Local Economic Value                  | Focus on national parks' economic effects | Empathy, connection         |
+| **Values**    |  National Significance & Cultural Value | Why national parks matters to us  | Pride, responsibility       |
+| **Resolution**           |  Solutions               | Show where funding goes: staffing, facilities, education, community partnerships | Relief, hope                |
+| **Action**               |  Call to Action (CTA)                  | Encourage donations and public advocacy                                         | Empowerment, motivation     |
 
 
 
