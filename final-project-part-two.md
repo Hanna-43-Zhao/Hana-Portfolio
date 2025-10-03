@@ -94,9 +94,13 @@ When defining the target audience, I considered both those directly impacted by 
 
 ## References
 National Public Radio. (2025, February 26). National parks layoffs and visitor disruptions. Retrieved from https://www.npr.org/2025/02/26/nx-s1-5307908/national-parks-layoffs-visitors-disruptions
+
 National Park Service. Visitor use statistics. Retrieved from https://www.nps.gov/subjects/socialscience/visitor-use-statistics.html
+
 National Park Service. NPS Stats (IRMA). Retrieved from https://irma.nps.gov/Stats/
+
 The New York Times. Park Service staffing and its challenges. Retrieved from https://www.nytimes.com/2025/07/03/us/politics/park-service-staffing.html
+
 USAFacts. What does the U.S. Government do: National Park Service. Retrieved from https://usafacts.org/explainers/what-does-the-us-government-do/subagency/national-park-service/?utm_source=chatgpt.com
 
 ## AI acknowledgements
