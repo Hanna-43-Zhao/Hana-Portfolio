@@ -6,10 +6,9 @@ After receiving critical feedback, I realized that my first draft relied too hea
 
 In response, I rebuilt my storyboard to strengthen the storyline and focus on the economic and cultural importance of national parks. I organized the narrative into a clear sequence — from the pandemic impact, to budget cuts and staffing shortages, to the ripple effects on local economies and national heritage. I also added draft visualizations and paired them with case studies, quotes, and calls to action, connecting the data more directly to meaning and action, giving the audience both evidence and motivation to care.
 
-lINK to the Shorthand: https://campaignmonitor.shorthand.com/t/n/i-l-953980959fe711f099103e837b62876b-l-y-r-l/
+link to the Shorthand: https://campaignmonitor.shorthand.com/t/n/i-l-953980959fe711f099103e837b62876b-l-y-r-l/
 
 **Wireframs**
-# Wireframes / Storyboards with User Journey Elements
 
 | Stage (User Journey)     | Wireframe Section                        | Narrative Focus                                                                 | Audience Emotion  |
 |--------------------------|------------------------------------------|---------------------------------------------------------------------------------|-----------------------------|
