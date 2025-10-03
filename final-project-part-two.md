@@ -81,30 +81,23 @@ When defining the target audience, I considered both those directly impacted by 
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+| Research synthesis (Findings / Observations) | Anticipated changes for Part III |
+|----------------------------------------------|----------------------------------|
+| Opening visuals strong, but headline and intro not sharp enough to signal the problem clearly. | Revise headline to be more direct about funding challenges; clarify in the introduction why this issue matters immediately. |
+| Charts were helpful but some felt too few or disconnected from real-world consequences. | Add more visualizations (e.g., staff numbers over time, maintenance backlog, education/volunteer program stats) and directly link them to impacts. |
+| Logic between “budget cuts” and “negative impacts” was not fully convincing. | Strengthen causal chain by adding evidence. Provide concrete before/after examples. |
+| Emotional resonance was uneven — local business and heritage stories worked, but participants wanted more human voices. | Incorporate ranger or volunteer perspectives, visitor quotes, and short human-centered anecdotes alongside data. |
+| Narrative flow mostly clear but some transitions abrupt. | Smooth transitions between sections (budget → staffing → economy → cultural value) so the story arc feels seamless. |
+| Call to action felt too general and weak. | Make CTA stronger and more specific, and show how individual actions make a difference. |
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
-_List any references you used here._
+National Public Radio. (2025, February 26). National parks layoffs and visitor disruptions. Retrieved from https://www.npr.org/2025/02/26/nx-s1-5307908/national-parks-layoffs-visitors-disruptions
+National Park Service. Visitor use statistics. Retrieved from https://www.nps.gov/subjects/socialscience/visitor-use-statistics.html
+National Park Service. NPS Stats (IRMA). Retrieved from https://irma.nps.gov/Stats/
+The New York Times. Park Service staffing and its challenges. Retrieved from https://www.nytimes.com/2025/07/03/us/politics/park-service-staffing.html
+USAFacts. What does the U.S. Government do: National Park Service. Retrieved from https://usafacts.org/explainers/what-does-the-us-government-do/subagency/national-park-service/?utm_source=chatgpt.com
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+I used AI (ChatGPT) to assist with text editing and refinement, formatting in Markdown, improving logical flow, and optimizing the wording of interview questions. All content and final decisions were my own.
