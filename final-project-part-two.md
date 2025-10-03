@@ -35,44 +35,34 @@ When defining the target audience, I considered both those directly impacted by 
 ### Who I Hope to Reach  
 
 1. **Everyday Visitors and Families**  
-   - Representative: A family from Ohio planning their summer trip to Yellowstone. They value affordable recreation and feel proud of experiencing America’s natural beauty.  
-   - Motivation: Preserve access and quality of parks for their children and future generations.  
-   - Desired Action: Support advocacy campaigns, donate, and share awareness.  
+- Representative: A family from Ohio planning their summer trip to Yellowstone. They value affordable recreation and feel proud of experiencing America’s natural beauty.  
+ - Motivation: Preserve access and quality of parks for their children and future generations.  
+ - Desired Action: Support advocacy campaigns, donate, and share awareness.  
 
 2. **Local Communities and Small Business Owners**  
-   - Representative: A hotel owner in Estes Park, CO, whose livelihood depends on steady tourism from Rocky Mountain National Park.  
-   - Motivation: Protect the economic engine of their community and ensure visitor services remain strong.  
-   - Desired Action: Join advocacy coalitions, lobby elected officials, and partner with nonprofits or park foundations.  
+ - Representative: A hotel owner in Estes Park, CO, whose livelihood depends on steady tourism from Rocky Mountain National Park.  
+ - Motivation: Protect the economic engine of their community and ensure visitor services remain strong.  
+ - Desired Action: Join advocacy coalitions, lobby elected officials, and partner with nonprofits or park foundations.  
 
 3. **Policymakers and Decision Makers**  
-   - Representative: A congressional staffer reviewing budget allocations for cultural and natural resources.  
-   - Motivation: Respond to constituents’ pride in national parks while recognizing their local economic impact.  
-   - Desired Action: Protect or increase national park funding in budgets and legislation.  
-
----
-
-### Overall Audience Goal  
-This narrative is designed to:  
-- Build emotional connection with **general visitors**.  
-- Show tangible stakes to **local communities**.  
-- Provide persuasive evidence for **policymakers**.  
-
-By combining data, case studies, quotes, and calls to action, the project aims to move these groups from **awareness** → **understanding** → **advocacy and action**.  
+ - Representative: A congressional staffer reviewing budget allocations for cultural and natural resources.  
+ - Motivation: Respond to constituents’ pride in national parks while recognizing their local economic impact.  
+ - Desired Action: Protect or increase national park funding in budgets and legislation.  
 
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Understand initial impressions of the story | - What is your first reaction after viewing the opening ? - Does the introduction make you want to keep scrolling? |
+| Test clarity of problem framing | - Do the data visualizations help explain the problem, or are they confusing? |
+| Evaluate emotional engagement | - Did any of the quotes, case studies, or images resonate with you personally? |
+| Assess narrative flow | - Did the story make sense? - Were there any sections that felt disconnected? |
+| Gauge persuasiveness | - After seeing the story, do you feel more convinced that national parks deserve more funding? - Would you consider taking action |
+| Collect suggestions for improvement | - Was there anything you found unclear or overwhelming? - What additional information, visuals, or stories would you like to see? |
 
-
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
