@@ -52,7 +52,6 @@ When defining the target audience, I considered both those directly impacted by 
 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
 
 | Goal | Questions to Ask |
@@ -66,15 +65,19 @@ When defining the target audience, I considered both those directly impacted by 
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Questions | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+|-----------|--------------------------------|-------------|-------------|
+| What is your first reaction after viewing the opening? | Found the image beautiful and engaging | Said the opening was strong and set a positive tone. | Thought it looked appealing, though the “problem” was not immediately obvious. |
+| Does the introduction make you want to keep scrolling? | Yes, visuals kept attention. | Definitely, wanted to see more. | felt a bit like a report, but still continued. |
+| Do the data visualizations help explain the problem, or are they confusing? | Overall clear, but wanted stronger links to real-world impacts. | Helpful, suggested use theme color in charts and maps. | Hope to see something more visually |
+| Did any of the quotes, case studies, or images resonate with you personally? | Love the local businss story | Image is appealing and high-quality | Wanted more personal voices, such as park staff or visitors. |
+| Did the story make sense overall? | Yes, though transitions could be smoother. | Flow was clear, liked the sequence from budget → economy → culture. | Mostly understandable, but wanted stronger proof of impact. |
+| Were there any sections that felt disconnected? | Economic map felt slightly separate. | No, thought it was cohesive. | Cultural value section felt less integrated. |
+| After seeing the story, do you feel more convinced that national parks deserve more funding? | Yes, especially after seeing preservation examples. | Yes, persuaded by the economic impact. | Yes, though wanted more direct evidence of negative effects. |
+| Would you consider taking action ? | Yes, would share on social media. | Yes, especially if the CTA was more specific. | Interested, but needed a stronger call to action. |
+| Was there anything you found unclear or overwhelming? | Some sections had too much text. | Charts needed clearer labeling. | Mix of charts and text felt a bit heavy. |
+| What additional information, visuals, or stories would you like to see? | Before/after facility examples. | Stories from rangers or staff. | Maybe some stories about how NPs protect the local ecological system |
 
 
 # Identified changes for Part III
