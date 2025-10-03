@@ -8,7 +8,9 @@ In response, I rebuilt my storyboard to strengthen the storyline and focus on th
 
 link to the Shorthand: https://campaignmonitor.shorthand.com/t/n/i-l-953980959fe711f099103e837b62876b-l-y-r-l/
 
+
 **Wireframs**
+
 
 | Stage (User Journey)     | Wireframe Section                        | Narrative Focus                                                                 | Audience Emotion  |
 |--------------------------|------------------------------------------|---------------------------------------------------------------------------------|-----------------------------|
